@@ -1,7 +1,5 @@
 # MATH GAME
 
-[alt text](image.png)![alt text]
-
 ## Super Fun 2 player Math game! Get smorter 🥸
 
 This is an OOP-based command-line application with Ruby.
